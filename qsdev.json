@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Quantum-Serendipity/gdev-secure-devenv-bootstrap/releases/download/v0.1.0/qsdev_0.1.0_Windows_x86_64.zip",
+            "bin": [
+                "qsdev.exe"
+            ],
+            "hash": "c6af72db442276fab3f811d020bb380203c807d590e26c57072965e2932e3d6b"
+        }
+    },
+    "homepage": "https://github.com/Quantum-Serendipity/gdev-secure-devenv-bootstrap",
+    "description": "Secure developer environment bootstrapping tool"
+}
