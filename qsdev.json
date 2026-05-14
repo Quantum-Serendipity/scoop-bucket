@@ -1,12 +1,12 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Quantum-Serendipity/gdev-secure-devenv-bootstrap/releases/download/v0.1.1/qsdev_0.1.1_Windows_x86_64.zip",
+            "url": "https://github.com/Quantum-Serendipity/gdev-secure-devenv-bootstrap/releases/download/v0.2.0/qsdev_0.2.0_Windows_x86_64.zip",
             "bin": [
                 "qsdev.exe"
             ],
-            "hash": "85c0a14d449a295b51039281acfe7309a7083113370870a86becde96135b1792"
+            "hash": "afd8c03508f7f388f3cfdde208c52b0d145365972c0eaf74abe8426aa3ffa7ca"
         }
     },
     "homepage": "https://github.com/Quantum-Serendipity/gdev-secure-devenv-bootstrap",
