@@ -1,12 +1,12 @@
 {
-    "version": "0.3.5",
+    "version": "0.5.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Quantum-Serendipity/qsdev/releases/download/v0.3.5/qsdev_0.3.5_Windows_x86_64.zip",
+            "url": "https://github.com/Quantum-Serendipity/qsdev/releases/download/v0.5.0/qsdev_0.5.0_Windows_x86_64.zip",
             "bin": [
                 "qsdev.exe"
             ],
-            "hash": "89fa354f2134f771e2e3f56f7338005f29fe3f3b6650639f99fb07b141aecbe4"
+            "hash": "232344aa5210721224f4d257cae75c4880482be24b5c1e18df3fcf75d952306d"
         }
     },
     "homepage": "https://github.com/Quantum-Serendipity/qsdev",
